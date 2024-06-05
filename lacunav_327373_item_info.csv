@@ -1,0 +1,272 @@
+﻿Item ID,Item Name,Item Number
+-1,reg_time,2018-08-11 07:13:07
+item-10,Dummy Core,113
+item-31,Basic Training Data,179
+item-32,Intermediate Training Data,327
+item-33,Advanced Training Data,92
+-1,kalina_level,19
+-1,kalina_favor,11531
+item-1,T-Doll Contract,143
+item-2,Equipment Contract,829
+item-3,Quick Production Contract,355
+item-4,Quick Repair Contract,1520
+item-7,Oath Certificate,0
+item-8,Quick Training Contract,92
+item-9,Enhancement Capsule,1367
+item-11,Key Card,0
+item-12,Points,50
+item-13,Name Change Card,0
+item-14,Original Sample,2460
+item-15,Pure Sample,206
+item-16,Quick Analysis Contract,201
+item-17,Data Patch,0
+item-41,Token,605
+item-42,Exchange Ticket,0
+item-44,Calibration Ticket,4336
+item-45,Memory Fragment,827
+item-46,Special Combat Report,705
+item-50,Universal Parts,3016
+item-51,New Type Fire-Control Component,9
+item-53,Gachapon Ticket,1
+item-57,Energy,7000
+item-60,Component Processing Package,0
+item-103,Challenger Medal,3
+item-106,Chess Champion Medal,27
+item-131,item-10000131,1
+item-301,Central Data: BGM-71,0
+item-302,Central Data: AGS-30,0
+item-303,Central Data: 2B14,0
+item-304,Central Data: M2,0
+item-305,Central Data: AT4,0
+item-306,Central Data: QLZ-04,0
+item-307,Central Data: Mk 153,0
+item-308,Central Data: PP93,0
+item-506,Battery,1537
+item-507,Surplus EXP,1560000
+item-508,Friendship Points,1550
+item-509,Fairy Command,13
+item-512,Supernova Kernel,120
+item-513,Dark Star Kernel,550
+item-514,Petri Dish,215
+item-515,Basic Training Keycode,81
+item-516,Advanced Training Keycode,492
+item-517,Specified Equipment Contract,0
+item-519,HOC General Data,0
+item-524,Goliath Projectile,0
+item-525,Quick Auto-Battle Contract,400
+item-601,Infinite Surprise Dye,30
+item-602,Colorful Specified Dye,1
+item-603,Potential Energy,0
+item-604,Electronic Impulse,0
+item-605,Aid Commission,38
+item-606,Transfer Catalyst,49
+item-1005,M1911 Icon,1
+item-1010,Makarov Icon,1
+item-1012,Serdyukov Icon,1
+item-1015,Gr MP5 Icon,1
+item-1016,PTRD Icon,1
+item-1036,Ingram Icon,1
+item-1042,SV-98 Icon,1
+item-1043,Gr G36 Icon,1
+item-1044,SAA Icon,1
+item-1047,UMP45 Icon,1
+item-1049,M99 Icon,1
+item-1061,M3 Icon,1
+item-1062,M1895 Icon,1
+item-1063,Spectre M4 Icon,1
+item-1067,M21 Icon,1
+item-1070,AS Val Icon,1
+item-1228,Icon: Official 4-Koma vol.1,1
+item-1264,M4A1 Neural Upgrade Icon,1
+item-1265,ST AR-15 Neural Upgrade Icon,1
+item-1331,Base Background:Fireworks of Summer,1
+item-1494,416 Neural Upgrade Icon,1
+item-1502,Background: Phantasmal Sea of Flowers,1
+item-1707,Gr G11 Neural Upgrade Icon,1
+item-1802,Welrod MkII Neural Upgrade Icon,1
+item-2013,Icon: Birth of Starlight,1
+item-2014,Icon: Raise a Glass in Joyful Song,1
+item-2015,Icon: Walking in Solitude,1
+item-2016,Icon: Best Partner,2
+item-2017,Icon: Setting Sail,1
+item-2018,Icon: Friend of Pure Loyalty,1
+item-2019,ID: Screen Breakers,1
+item-2074,ID: A Promise of Four Years,1
+item-2077,Suomi Neural Upgrade Icon,1
+item-2417,Icon: Melancholic Vigil,1
+item-2418,Icon: Into the Pink Vortex,1
+item-2419,Icon: Bonds and Connections,1
+item-2421,Icon: Watching the Sun Go Down,1
+item-2426,ID: Cold Wonderland,1
+item-4001,City's Gift,5404
+item-4002,Snowfield's Gift,46
+item-4003,Forest's Gift,12081
+item-4004,Wasteland's Gift,69
+item-6001,Ordinary Meat Bun,1
+item-6002,Bundle of Meat Buns,0
+item-6003,Trove of Meat Buns,0
+item-6004,Commonfolk Standard,3
+item-6005,Comfort Bucket for One,9
+item-6006,Full Meal for Two,88
+item-6007,Strawberry Cheesecake Slice,0
+item-6008,One Week's Cake Selection,0
+item-6009,Sweet Explosives,1
+item-6010,"Baby  B-A-B-Y.",13
+item-6011,Streetside Oden,0
+item-6012,Wild Honeycomb,9
+item-6013,Icy Theater,1
+item-7201,Cards of Unpredictability,0
+item-8001,Intel Points,1600
+item-8002,Intel Points,0
+item-8003,Intel Points,4
+item-9038,Fragmented Visual Data,1
+item-10603,Extra Potential Energy,1
+item-10604,Extra Impulse,38
+item-10605,Level of Activity,180
+item-10606,Frontline Protocol Advanced Card,1505
+item-10702,Exploration Permit,668
+item-10707,Gray Zone Exploration Score,16830
+item-10708,Gray Zone Exploration Score,17190
+item-100029,Star Ornament,30
+item-100040,True Core Mask - 4th Anniversary,0
+item-100045,4th Anniversary Special Supply Box,30
+item-100095,Nova Medal – The Waves Wrangler,1
+item-100096,Platinum Medal – The Waves Wrangler,78
+item-100097,Star Marker,245
+item-100114,White Knight Armor Fragments,4
+item-100115,Nova Medal - VA-11 HALL-A,0
+item-100116,Platinum Medal - VA-11 HALL-A,4
+item-100138,True Core Mask - 6th Anniversary,0
+item-100139,6th Anniversary Special Supply Box,0
+item-100204,Shattered Glass Commendation,8
+item-100205,Nova Medal - Through the Looking-Glass,2
+item-100206,Platinum Medal - Through the Looking-Glass,4
+item-110003,Carnival Event Points,2320
+item-110004,Carnival Event Points,410
+item-110020,Event Points,2800
+item-110021,Event Points,170
+item-110027,Event Points,2800
+item-133007,Desert Yellow - Main Battle Tank Armor Design,1
+item-133008,Desert Yellow - Universal Machine Gun MK-I,1
+item-133009,Desert Yellow - Anti-Armor Sniper Rifle,1
+item-133011,Desert Yellow - Machine Gun Team,1
+item-133012,Desert Yellow - Automotive Night Vision,1
+item-133013,Desert Yellow - Flamethrower,1
+item-133014,Desert Yellow - Shell Launcher,1
+item-133015,Desert Yellow - Grenade Launcher,1
+item-133016,Desert Yellow - Laser Weapon,1
+item-133017,Desert Yellow - Cannon,1
+item-133018,Desert Yellow - Anti-Aircraft Cannon,1
+item-133019,Desert Yellow - Impulse Cannon,1
+item-133020,Desert Yellow - Armored Cannon,1
+item-133021,Desert Yellow - Jammer Gun,1
+item-133022,Desert Yellow - Jammer,1
+item-133023,Desert Yellow - Signal Transceiver,1
+item-133024,Desert Yellow - Smoke Grenade Launcher,1
+item-133025,Desert Yellow - Missile Launcher MK1,1
+item-133026,Desert Yellow - Missile Launcher MK2,1
+item-133027,Desert Yellow - Railgun,1
+item-133028,Desert Yellow - Automated Defense System,1
+item-133029,Desert Yellow - Rotating Turret,1
+item-133030,Desert Yellow - Drone Compartment,1
+item-133031,Urban Camouflage - Main Battle Tank Armor Design,1
+item-133037,Urban Camouflage - Flamethrower,1
+item-133038,Urban Camouflage - Shell Launcher,1
+item-133039,Urban Camouflage - Grenade Launcher,1
+item-133040,Urban Camouflage - Laser Weapon,1
+item-133041,Urban Camouflage - Cannon,1
+item-133042,Urban Camouflage - Anti-Aircraft Cannon,1
+item-133043,Urban Camouflage - Impulse Cannon,1
+item-133044,Urban Camouflage - Armored Cannon,1
+item-133045,Urban Camouflage - Jammer Gun,1
+item-133046,Urban Camouflage - Jammer,1
+item-133047,Urban Camouflage - Signal Transceiver,1
+item-133048,Urban Camouflage - Smoke Grenade Launcher,1
+item-133049,Urban Camouflage - Missile Launcher MK1,1
+item-133050,Urban Camouflage - Missile Launcher MK2,1
+item-133055,Desert Yellow - Tactical Mech Armor Design,1
+item-133056,Urban Camouflage - Tactical Mech Armor Design,1
+item-133057,Desert Yellow - Light Machine Gun,1
+item-133058,Desert Yellow - Lightweight Rapid-Fire Railgun,1
+item-133059,Desert Yellow - Shield Generator,1
+item-133060,Desert Yellow - Laser Suppression System,1
+item-133061,Desert Yellow - Heavy Machine Gun,1
+item-133062,Desert Yellow - Phased-Array Radar,1
+item-133063,Desert Yellow - Explosive Reactive Armor,1
+item-133066,Urban Camouflage - Shield Generator,1
+item-133067,Urban Camouflage - Laser Suppression System,1
+item-133068,Urban Camouflage - Heavy Machine Gun,1
+item-133069,Urban Camouflage - Phased-Array Radar,1
+item-200003,Icon Frame - Extreme Apex,1
+item-200009,Icon Frame - Dance of the Nib,1
+item-900043,Nova Medal·Far Side of the Sea,2
+item-900044,Platinum Medal·Far Side of the Sea,193
+item-900045,Azure Conch,90
+item-900055,5th Anniversary Special Supply Box,70
+item-1100007,Corona Fusion,1
+item-1100008,Corona Fusion,1
+item-1500022,Five-Star Equipment Selection Indicator,0
+item-1500088,Basic Equipment Indicator,0
+item-1500089,Basic Exclusive Equipment Selection Indicator,0
+item-1500090,Advanced Exclusive Equipment Selection Indicator,0
+item-1500112,Frontline Protocol - Extra Prize,0
+item-1500116,Frontline Protocol - Extra Prize,0
+item-1600001,Returning Commander's Special Anchored Production,1
+item-1700001,Basic Equipment Selection Indicator,0
+item-1700002,Basic Exclusive Equipment Selection Indicator,2
+item-1700003,Advanced Exclusive Equipment Selection Indicator,0
+item-1800001,Military-Grade Weapon Component Box,0
+item-1800002,Military-Grade Function Component Box,0
+item-1800003,Professional-Grade Component Box,0
+item-1800004,Industrial-Grade Component Box,0
+item-1800005,Standard-Grade Component Box,0
+item-1800008,Military-Grade Weapon Component Box 2.0,0
+item-1800009,Military-Grade Function Component Box 2.0,0
+gift-1505,Babe Driver,1
+gift-2003,Waning Winter,1
+gift-5903,Wind-Chasing Witch,1
+gift-5905,King of Hotpotland,1
+gift-8309,Bathed In Starlight,1
+gift-8612,Detective's Sidekick,1
+gift-100003,Strawberry Custard Cheesecake,19
+gift-200001,Combat Report,1375
+furniture-10102,Simple Workbench,2
+furniture-10202,Plain Cat Bed,2
+furniture-10302,Simple Doghouse,2
+furniture-10401,Simple Bird Stand,1
+furniture-10501,Simple Multifunction Temperature-Controlled Enclosure,1
+furniture-20109,Modern Era Desk,9
+furniture-20209,Professional Drone Console,9
+furniture-20307,Automated Operating Station,7
+furniture-20509,Small Server,9
+furniture-20408,Large Data Table,8
+furniture-20608,Networked Printer,8
+furniture-20700,Bookshelf of Memories,0
+furniture-30109,Fairy Hall,9
+furniture-30208,Railway Station Model,8
+furniture-30308,Industrial Warehouse Model,8
+furniture-30409,Dark Moon Weather System,9
+furniture-40023,Cafe Bar Coffee Machine,0
+furniture-40024,Gramophone,0
+furniture-40026,Notebook,0
+furniture-40027,Projector,0
+furniture-40028,Comic Stand,0
+furniture-40009,Luffberry chess,0
+furniture-50110,Data Detection Hub,10
+furniture-50310,Ultra High-Speed Liquid-Cooled Storage,10
+furniture-60310,Integrated Indoor Training Range,10
+furniture-50500,Futuristic Search Terminal,0
+furniture-80007,Real Time Relay Terminal,0
+furniture-80011,Black Market Shop,0
+furniture-80109,Automated Gate Console,9
+furniture-80306,Advanced Loot Rack,6
+furniture-90110,Impulse Reactor,10
+furniture-90205,Tactical Chip Research Station,5
+furniture-90400,Symmetric Infusion Drive,0
+furniture-100100,Workstation,0
+furniture-100200,Energy Generator,0
+furniture-100300,Research Station,0
+furniture-100400,Component Storage,0
+furniture-100500,Armor Range,0
+furniture-100600,Mobile Armor Platform,0
+furniture-100700,Mobile Armor,0
